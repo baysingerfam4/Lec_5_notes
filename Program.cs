@@ -179,29 +179,31 @@ namespace Lec_5_notes
         public static void Questions()
         {
             //In programming, conditions like if / else if/ and else blocks are known as a D_______ S________.
+            //Conditional Statements is the only thing I can find
 
             //If you have an if / else if / else structure, how many code blocks can run in a single structure ?
+            //You can have as many as needed but it maybe difficult to work with if you have too many.
             //if (condition)  { //if statement }
             //else if (another condition ) { // else if statement }
             //else { else statement }
 
-            //Which code block will run?
+            //Which code block will run? Any can run depending on the answer.
 
-            //If you have two if separate statements, can these both run?
+            //If you have two if separate statements, can these both run? Yes both can run
             //if (condition) { // first if }            
             //if (second condition { // second if }
 
-            //How many if else if statements can you have?
+            //How many if else if statements can you have? As many as needed
 
-            //Can you have an else if / else without an if?
+            //Can you have an else if / else without an if? No
             //else if (condition) { // else if statement }            
             //else { // else statement }
             //
-            // Can you have an if without an else?
+            // Can you have an if without an else? Yes at least it ran when I tried
            // if (condition)
                                            // { // if statement }
-            // Which logical operator do you choose if you have 2 Conditions and both need to be true ?
-            //Which logical operator do you choose if you have 2 Conditions, but only one needs to be true ?
+            // Which logical operator do you choose if you have 2 Conditions and both need to be true ? &&
+            //Which logical operator do you choose if you have 2 Conditions, but only one needs to be true ? ||
 
 
         }
